@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="169" height="169" viewBox="0 0 169 169">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_6" data-name="Rectangle 6" width="169" height="169" transform="translate(765 689)" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_5" data-name="Mask Group 5" transform="translate(-765 -689)" clip-path="url(#clip-path)">
+    <g id="menu_2_" data-name="menu (2)" transform="translate(766 714)">
+      <path id="Path_8" data-name="Path 8" d="M159.121,136.5H6.918a6.918,6.918,0,0,1,0-13.837h152.2a6.918,6.918,0,0,1,0,13.837Zm0,0" transform="translate(0 -69.627)" fill="#8c8c8c"/>
+      <path id="Path_9" data-name="Path 9" d="M159.121,13.837H6.918A6.918,6.918,0,0,1,6.918,0h152.2a6.918,6.918,0,0,1,0,13.837Zm0,0" fill="#8c8c8c"/>
+      <path id="Path_10" data-name="Path 10" d="M159.121,259.169H6.918a6.918,6.918,0,1,1,0-13.837h152.2a6.918,6.918,0,1,1,0,13.837Zm0,0" transform="translate(0 -139.252)" fill="#8c8c8c"/>
+    </g>
+    <g id="Ellipse_4" data-name="Ellipse 4" transform="translate(859 749)" fill="#fff" stroke="#8c8c8c" stroke-width="9">
+      <circle cx="24.5" cy="24.5" r="24.5" stroke="none"/>
+      <circle cx="24.5" cy="24.5" r="20" fill="none"/>
+    </g>
+    <g id="Ellipse_3" data-name="Ellipse 3" transform="translate(796 802)" fill="#fff" stroke="#8c8c8c" stroke-width="9">
+      <circle cx="24.5" cy="24.5" r="24.5" stroke="none"/>
+      <circle cx="24.5" cy="24.5" r="20" fill="none"/>
+    </g>
+    <g id="Ellipse_5" data-name="Ellipse 5" transform="translate(796 695)" fill="#fff" stroke="#8c8c8c" stroke-width="9">
+      <circle cx="24.5" cy="24.5" r="24.5" stroke="none"/>
+      <circle cx="24.5" cy="24.5" r="20" fill="none"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,76 @@
+[
+    {
+        "id":1,
+        "name": "Product A",
+        "price": 19.99,
+        "category": "Electronics",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "images":["./assests/image/hen1.jpeg","./assests/image/hen2.jpeg","./assests/image/hen3.jpeg","./assests/image/hen4.jpeg"]
+
+    },
+    {
+        "id":2,
+        "name": "Product B",
+        "price": 9.99,
+        "category": "Clothing",
+        "description": "Pellentesque ac nunc at dui laoreet varius.",
+        "images":["./assests/image/hen2.jpeg","./assests/image/hen1.jpeg","./assests/image/hen3.jpeg","./assests/image/hen4.jpeg"]
+
+
+    },
+    {
+        "id":3,
+        "name": "Product C",
+        "price": 29.99,
+        "category": "Home Decor",
+        "description": "Nullam ut libero id odio mattis suscipit.",
+        "images":["./assests/image/hen1.jpeg","./assests/image/hen2.jpeg","./assests/image/hen3.jpeg","./assests/image/hen4.jpeg"]
+
+
+    },
+    {
+        "id":4,
+        "name": "Product D",
+        "price": 5.49,
+        "category": "Kitchen",
+        "description": "Vestibulum dapibus nunc non odio hendrerit, at rhoncus felis condimentum.",
+        "images":["./assests/image/hen1.jpeg","./assests/image/hen2.jpeg","./assests/image/hen3.jpeg","./assests/image/hen4.jpeg"]
+    },
+    {
+        "id":5,
+        "name": "Product A",
+        "price": 19.99,
+        "category": "Electronics",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "images":["./assests/image/hen1.jpeg","./assests/image/hen2.jpeg","./assests/image/hen3.jpeg","./assests/image/hen4.jpeg"]
+
+    },
+    {
+        "id":6,
+        "name": "Product B",
+        "price": 9.99,
+        "category": "Clothing",
+        "description": "Pellentesque ac nunc at dui laoreet varius.",
+        "images":["./assests/image/hen2.jpeg","./assests/image/hen1.jpeg","./assests/image/hen3.jpeg","./assests/image/hen4.jpeg"]
+
+
+    },
+    {
+        "id":7,
+        "name": "Product C",
+        "price": 29.99,
+        "category": "Home Decor",
+        "description": "Nullam ut libero id odio mattis suscipit.",
+        "images":["./assests/image/hen1.jpeg","./assests/image/hen2.jpeg","./assests/image/hen3.jpeg","./assests/image/hen4.jpeg"]
+
+
+    },
+    {
+        "id":8,
+        "name": "Product D",
+        "price": 5.49,
+        "category": "Kitchen",
+        "description": "Vestibulum dapibus nunc non odio hendrerit, at rhoncus felis condimentum.",
+        "images":["./assests/image/hen1.jpeg","./assests/image/hen2.jpeg","./assests/image/hen3.jpeg","./assests/image/hen4.jpeg"]
+    }
+]
